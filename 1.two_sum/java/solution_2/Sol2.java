@@ -18,7 +18,7 @@ public class Sol2 {
   }
 
   public static void main(String[] args) {
-    int[] nums = { 3, 2, 4 };
+    int[] nums = { 3, 3 };
     int target = 6;
 
     Sol2 sol2 = new Sol2();
